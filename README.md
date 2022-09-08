@@ -16,6 +16,8 @@ Con el continuo desarrollo de las técnicas de reconstrucción tridimensional (3
 Video explicativo: https://mailuis-my.sharepoint.com/personal/famarcar_uis_edu_co/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffamarcar%5Fuis%5Fedu%5Fco%2FDocuments%2FGrabaciones%2FInvitaci%C3%B3n%20Sustentaci%C3%B3n%20Proyecto%20de%20Grado%20de%20los%20estudiantes%20Juan%20Ricardo%20Albarracin%20y%20%C3%81ngel%20Fabian%20G%C3%B3mez%2D20220824%5F080053%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&ga=1
 
 
+
+
 ENGLISH:
 # Deep Point Cloud Registration Algorithm
 
