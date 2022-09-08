@@ -1,4 +1,4 @@
-![Banner Algoritmo de Registro Profundo de Nube de Puntos](Baner.jpg)
+![Banner Algoritmo de Registro Profundo de Nube de Puntos](Banner.jpg)
 
 ESPAÑOL:
 # Algoritmo de Registro Profundo de Nube de Puntos
