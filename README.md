@@ -1,5 +1,7 @@
 ![Banner Algoritmo de Registro Profundo de Nube de Puntos](Banner.png)
 
+LAOP PARTICIPATION: https://comunicaciones.uis.edu.co/estudiante-uis-participa-en-el-latin-america-optics-photonics/
+
 ESPAÑOL:
 # Algoritmo de Registro Profundo de Nube de Puntos
 
